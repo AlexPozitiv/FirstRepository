@@ -7,3 +7,8 @@
 *.msix
 *.msm
 *.msp
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
